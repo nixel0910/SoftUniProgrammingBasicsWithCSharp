@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\student-with-gradeX-10v-21\student-with-gradeX-10v-21\bin\Debug\student-with-gradeX-10v-21.exe.config
+C:\Users\Student\Desktop\student-with-gradeX-10v-21\student-with-gradeX-10v-21\bin\Debug\student-with-gradeX-10v-21.exe
+C:\Users\Student\Desktop\student-with-gradeX-10v-21\student-with-gradeX-10v-21\bin\Debug\student-with-gradeX-10v-21.pdb
+C:\Users\Student\Desktop\student-with-gradeX-10v-21\student-with-gradeX-10v-21\obj\Debug\student-with-gradeX-10v-21.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\student-with-gradeX-10v-21\student-with-gradeX-10v-21\obj\Debug\student-with-gradeX-10v-21.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\student-with-gradeX-10v-21\student-with-gradeX-10v-21\obj\Debug\student-with-gradeX-10v-21.exe
+C:\Users\Student\Desktop\student-with-gradeX-10v-21\student-with-gradeX-10v-21\obj\Debug\student-with-gradeX-10v-21.pdb
